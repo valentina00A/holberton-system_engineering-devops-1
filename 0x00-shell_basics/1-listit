@@ -1,5 +1,6 @@
 #!/bin/bash
-ls /holberton-system_engineering-devops
+ls
+
 
 
 
